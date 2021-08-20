@@ -9,4 +9,4 @@
 >
 > -- Mark Dowd
 
-This repository will contain all materials related to my talk *"My last Solaris talk (not your average keynote)"* presented at #RomHack21 on September 25, 2021.
+This repository will contain all materials related to *"My last Solaris talk (not your average keynote)"* presented at #RomHack21 on September 25, 2021.
