@@ -9,4 +9,21 @@
 >
 > -- Mark Dowd
 
-This repository will contain all materials related to *"My last Solaris talk (not your average keynote)"* presented at #RomHack21 on September 25, 2021.
+This repository contains all materials related to *"My last Solaris talk (not your average keynote)"* presented at #RomHack21 on September 25, 2021.
+
+Related links:  
+TBD (video)  
+TBD (blog)
+
+## article
+TBD
+
+## exploits
+* [**raptor_dtprintcheckdir_sparc2.c**](https://github.com/0xdea/raptor_romhack21/blob/main/exploits/raptor_dtprintcheckdir_sparc2.c). The Solaris/SPARC format string exploit I dissected during my presentation. 
+* [**raptor_dtprintcheckdir_sparc.c**](https://github.com/0xdea/raptor_romhack21/blob/main/exploits/raptor_dtprintcheckdir_sparc.c). Another version of the same exploit that targets function activation records.
+* [**raptor_dtprintcheckdir_intel2.c**](https://github.com/0xdea/raptor_romhack21/blob/main/exploits/raptor_dtprintcheckdir_intel2.c). Solaris/Intel format string exploit.
+* [**raptor_dtprintcheckdir_intel.c**](https://github.com/0xdea/raptor_romhack21/blob/main/exploits/raptor_dtprintcheckdir_intel.c). Solaris/Intel stack-based buffer overflow exploit.
+
+## slides
+* [**last.pdf**](https://github.com/0xdea/raptor_romhack21/blob/main/slides/last.pdf). Slide deck presented at #RomHack21 (PDF version).
+* [**last.pptx**](https://github.com/0xdea/raptor_romhack21/blob/main/slides/last.pptx). Slide deck presented at #RomHack21 (PowerPoint version).
