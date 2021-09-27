@@ -12,8 +12,8 @@
 This repository contains all materials related to *"My last Solaris talk (not your average keynote)"* presented at #RomHack21 on September 25, 2021.
 
 Related links:  
-TBD (video)  
-TBD (blog)
+https://youtu.be/Nc9ZLTb2hQ8 (video)  
+https://security.humanativaspa.it/my-last-solaris-talk-not-your-average-keynote/ (blog)
 
 ## article
 TBD
