@@ -14,7 +14,7 @@ This repository contains all materials related to *"My last Solaris talk (not yo
 Related links:  
 https://youtu.be/Nc9ZLTb2hQ8 (video)  
 http://phrack.org/issues/70/13.html#article (article)  
-https://security.humanativaspa.it/my-last-solaris-talk-not-your-average-keynote/ (blog)
+https://hnsecurity.it/blog/my-last-solaris-talk-not-your-average-keynote/ (blog)
 
 ## article
 * [**Exploiting a Format String Bug in Solaris CDE**](https://github.com/0xdea/raptor_romhack21/blob/main/article/phrack70_13.txt). A Phrack article that expands on my presentation. 
